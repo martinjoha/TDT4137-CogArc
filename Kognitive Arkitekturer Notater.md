@@ -1,3 +1,6 @@
+A summary of the curriculum from course TDT4137 Cognitive Architectures, and the articles that are relevant.
+Not all the articles from the curriculum are complete.
+
 # Kognitive Arkitekturer Notater
 
 ## Article 1: The Nature Of cognition
